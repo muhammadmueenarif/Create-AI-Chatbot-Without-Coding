@@ -39,3 +39,9 @@ from chatbot about our business.. we can select chatbot model also. in change ba
 a prompt to act like. e.g, you are professional web designer and developer who has complete knowledge of frontend 
 and backend and has experience of 20 years in web field. provide best customer service experience to users.
 click on save changes. 
+
+
+How to refine chatbot responses? 
+in left side, training material. your website can have multiple pages. we can upload training material in 
+website. we can upload file or in the top we can give website url. we can give sitemap. and enter text also by 
+selecting text button. 
