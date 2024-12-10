@@ -26,3 +26,16 @@ then we can add actionable items like social links fb, etsy, email etc., and we 
 of our own website or any other website that we want by just giving name and then url of that page or site. 
 click on save changes and all saved. 
 
+
+How to tune chatbot according to requirements? 
+in business info section, we will give details about the business like if our website is image generating 
+and it has different pricing plans, then we can tell about our pricing here. give it a propmt in the details 
+area section and if you want it to navigate to price page then give link of price page here. in this 
+business info, we can give url of faq in add skill option and it will extract all faqs. 
+we can also add escalation and give reason and answer. reason: user want to contact support, 
+answer: you can ask them to visit contact page or give email. 
+then click on advance section in left bar, and we can add additional emails here where we will get emails 
+from chatbot about our business.. we can select chatbot model also. in change base prompt area, we will give it
+a prompt to act like. e.g, you are professional web designer and developer who has complete knowledge of frontend 
+and backend and has experience of 20 years in web field. provide best customer service experience to users.
+click on save changes. 
