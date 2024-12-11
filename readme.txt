@@ -45,3 +45,15 @@ How to refine chatbot responses?
 in left side, training material. your website can have multiple pages. we can upload training material in 
 website. we can upload file or in the top we can give website url. we can give sitemap. and enter text also by 
 selecting text button. 
+
+
+Trying Out chatbot.
+click on try my chatbot option in left section and try. chat with it and test. 
+
+Adding Chatbot Wordpress.
+we will embedd dashboard to Wordpress website. click on the qr code and copy link.click on share chatbot option. 
+in Wordpress cpanel, click on plugin and add new plugin. install wpcode plugin with /> blue color and symbol. 
+activate it. click on code snippet in the left section. then select header and footers. copy add to website 
+code from your chatbot dashobard. click on copy and paste the url of website where we want to embedd it. 
+in plugin, header body and different section will be available paste in body section. and save changes.
+
